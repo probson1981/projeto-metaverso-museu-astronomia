@@ -125,7 +125,7 @@ Este projeto pode ser utilizado como base para:
 2. Carregar a cena principal do Museu da Astronomia.
 3. Executar a cena no modo Play.
 4. Utilizar a janela Game ou o Meta XR Simulator para navegar no ambiente.
-5. Se aproximar e Selecionar os planetas interativos.
+5. Se aproximar e Selecionar com o click do MOUSE os planetas interativos.
 6. Observar o aumento de escala do planeta e ouvir o áudio explicativo.
 
 Obs: a iteração com o mouse é prejudicada no ambiente do Meta XR Simulator. Assim usar o modo Game do Unity para testar a interação com os planetas.
