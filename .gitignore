@@ -1,0 +1,43 @@
+cd "F:\Metaverso\GitHub\projeto-vr-patricio-metaverso"
+
+@'
+# Unity generated folders
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+
+# Visual Studio, Rider and VS Code
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.pidb
+*.booproj
+**/.vsconfig
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Unity memory and recordings
+**/[Mm]emoryCaptures/
+**/[Rr]ecordings/
+
+# Crash reports
+sysinfo.txt
+
+# Keep normal Unity metadata
+!*.meta
+
+# Unity recovery files
+**/Assets/_Recovery/
+**/Assets/_Recovery.meta
+'@ | Set-Content -Path ".gitignore" -Encoding UTF8
