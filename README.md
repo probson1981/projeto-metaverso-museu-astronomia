@@ -1,4 +1,4 @@
-# Museu da Astronomia
+# Museu da Astronomia (com interação)
 
 **Autor:** Patrício Alves  
 **Trilha:** SmartContracts  
