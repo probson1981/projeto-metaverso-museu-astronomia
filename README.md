@@ -3,6 +3,7 @@
 **Autor:** Patrício Alves  
 **Trilha:** SmartContracts  
 
+## Baixar o arquivo .zip e montar o projeto com o caminho mais curto possível
 ## Link:  https://github.com/probson1981/projeto-vr-patricio-metaverso
 ## Link no YouTube: https://youtu.be/wuzmKTTgXWU
 
